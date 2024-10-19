@@ -1,0 +1,4 @@
+repository "OnlineShooter@DimaGDD@cloud"
+  path "/"
+    br "/main"
+    co "/main"
